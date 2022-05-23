@@ -20,6 +20,8 @@ pytorch_lightning==1.2.5
 PyMCubes
 kornia==0.4.0
 chumpy
+numpy==1.21.4
+numba==0.53
 cython==0.29.20
 rembg>=2.0.3
 opencv-python
